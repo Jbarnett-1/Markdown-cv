@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Jerrika Barnett
+[Linkedin](www.linkedin.com/in/jerrikabarnett), [Github](https://github.com/Jbarnett-1/)
 
-You can use the [editor on GitHub](https://github.com/Jbarnett-1/Markdown-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+**Master of Science Pharmacology**									       June 2018
+_Tulane University School of Medicine_, New Orleans, LA
 
-### Markdown
+**Bachelor of Science Biochemistry** 									     June 2016
+_California Polytechnic State University San Luis Obispo_, San Luis Obispo, CA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
+-	Able to work individually and as a team.
+-	Highly driven and fast learner
+-	Office Management & Administration 
+-	Supervising, Training & Mentoring Employees
+-	Inventory & Records Management
+-	Use of Microsoft Office (Outlook, OneDrive, Word, PowerPoint, Excel)
+-	Machine learning programming with Python, MATLAB, JavaScript, SQL
+-	Web Tools (GitHub, WordPress) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Experience
+**Research Biochemist**								           September 2019 - March 2020
+_California Polytechnic State University San Luis Obispo_, San Luis Obispo, CA
+-	Participated and led a team in researching methods for early detection of amyloid-related diseases
+-	Conducted HNMR, IR, HPLS machines to determine the best techniques and tools to target population
 
-- Bulleted
-- List
+**Lab Technician**										   May - October 2018
+_Intertek Petroleum Industries - Caleb Brett Group_, St. Rose, LA
+-	Analytically assessing samples and quality control specimens based on petroleum and biofuel guidelines
+-	Calibrating equipment and prepare standardize reagents and solutions based on specific methodology
 
-1. Numbered
-2. List
+**Analytical Lab Technician**								 November 2016 - April 2017
+_IEH Laboratories and Consulting Group_, Oxnard, CA
+-	Analyzed and performed QA/QC testing for produce, soil and water samples before public distribution.
+-	Tested through Aerobic Plate Count, quantitative E. coli count and PCR methods. 
+-	Maintained detailed records for FDA, safety, and environment purposes.
 
-**Bold** and _Italic_ and `Code` text
+**Student Laboratory Research Assistant** 					        September 2013 to August 2016
+_California Polytechnic State University San Luis Obispo_, San Luis Obispo, CA
+-	Collected and analyzed biological data between organisms and their environment 
+-	Carried out quality control assessments for analysis for drinking water, wastewater, and surface waters. 
 
-[Link](url) and ![Image](src)
-```
+**Assistant Manager and Visual Merchandiser** 					     January 2010 - April 2017
+_Cornerstone Apparel_, Camarillo, CA
+-	Maximizing sales, marketing, and profit to achieve growth.
+-	Assembled promotional displays and tailored marketing displays to best suit the stores need.
+-	Experience bookkeeping, making deposits, and problem solving with customer service issues.
+-	Hired and trained new employees on their duties.
+-	Weekly and monthly inventory of items in the stock and upkeep of ordering high selling items
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jbarnett-1/Markdown-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Certifications
+**Google IT Automation with Python Professional Certification**					August 2020
+-	Crash Course on Python							
+-	Using Python to Interact with the Operating System
+-	Introduction to Git and Github
+-	Troubleshooting and Debugging Techniques
+-	Configuration Management and the Cloud
+-	Automating Real-World Tasks with Python
