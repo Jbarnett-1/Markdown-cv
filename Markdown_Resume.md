@@ -5,7 +5,7 @@ Linkedin: [www.linkedin.com/in/jerrikabarnett](www.linkedin.com/in/jerrikabarnet
 Github: [https://github.com/Jbarnett-1](https://github.com/Jbarnett-1/)</br>
 
 ## About
-Previous experience in the pharmaceutical and chemistry lab area looking to join a creative software development and programming team. Through undergrad, I was required to use MATLAB to analyze and model chemical processes through equations I've learned. Over time, my interest grew and now I l troubleshoot, deploy, and debug Python scripts to make programs run smoothly. I'm currently expanding my expertise into websites with JavaScript and SQL and running containers on Kubernetes.
+I have previous experience in the pharmaceutical and chemistry area but looking to join a creative software development and programming team. Through undergrad, I was required to use MATLAB to analyze and model chemical processes through equations I've learned. Over time, my interest grew and now I l troubleshoot, deploy, and debug Python scripts to make programs run smoothly. I'm currently expanding my expertise into websites with JavaScript and SQL and running containers on Kubernetes.
 
 ## Skills
 -	Relationship building skills to work closely with a team
@@ -29,31 +29,31 @@ _California Polytechnic State University San Luis Obispo_ </br>
 San Luis Obispo, CA _June 2016_ </br>
 
 ## Experience
-**Research Biochemist**		&nbsp;&nbsp;	_California Polytechnic State University San Luis Obispo_ </br>
-San Luis Obispo, CA _September 2019 - March 2020_ </br>
+**Research Biochemist**	&nbsp;&nbsp; _California Polytechnic State University San Luis Obispo_ </br>
+San Luis Obispo, CA &nbsp;&nbsp; _September 2019 - March 2020_ </br>
 -	Participated and led a team in researching methods for early detection of amyloid-related diseases </br>
 -	Conducted HNMR, IR, HPLS machines to determine the best techniques and tools to target population </br>
 
-**Lab Technician**	_Intertek Petroleum Industries - Caleb Brett Group_ </br>
-St. Rose, LA _May - October 2018_
--	Analytically assessing samples and quality control specimens based on petroleum and biofuel guidelines
--	Calibrating equipment and prepare standardize reagents and solutions based on specific methodology
+**Lab Technician** &nbsp;&nbsp; _Intertek Petroleum Industries - Caleb Brett Group_ </br>
+St. Rose, LA &nbsp;&nbsp; _May - October 2018_ </br>
+-	Analytically assessing samples and quality control specimens based on petroleum and biofuel guidelines </br>
+-	Calibrating equipment and prepare standardize reagents and solutions based on specific methodology </br>
 
-**Analytical Lab Technician**								 November 2016 - April 2017
-_IEH Laboratories and Consulting Group_, Oxnard, CA
--	Analyzed and performed QA/QC testing for produce, soil and water samples before public distribution.
--	Tested through Aerobic Plate Count, quantitative E. coli count and PCR methods. 
--	Maintained detailed records for FDA, safety, and environment purposes.
+**Analytical Lab Technician**	&nbsp;&nbsp; _IEH Laboratories and Consulting Group_ </br>						 
+Oxnard, CA &nbsp;&nbsp; _November 2016 - April 2017_ </br>
+-	Analyzed and performed QA/QC testing for produce, soil and water samples before public distribution. </br>
+-	Tested through Aerobic Plate Count, quantitative E. coli count and PCR methods. </br>
+-	Maintained detailed records for FDA, safety, and environment purposes. </br>
 
-**Student Laboratory Research Assistant** 					        September 2013 to August 2016
-_California Polytechnic State University San Luis Obispo_, San Luis Obispo, CA
--	Collected and analyzed biological data between organisms and their environment 
--	Carried out quality control assessments for analysis for drinking water, wastewater, and surface waters. 
+**Student Laboratory Research Assistant** &nbsp;&nbsp; _California Polytechnic State University San Luis Obispo_ </br>			   
+San Luis Obispo, CA &nbsp;&nbsp; _September 2013 to August 2016_ </br>	
+-	Collected and analyzed biological data between organisms and their environment </br>
+-	Carried out quality control assessments for analysis for drinking water, wastewater, and surface waters. </br>
 
-**Assistant Manager and Visual Merchandiser** 					     January 2010 - April 2017
-_Cornerstone Apparel_, Camarillo, CA
--	Maximizing sales, marketing, and profit to achieve growth.
--	Assembled promotional displays and tailored marketing displays to best suit the stores need.
--	Experience bookkeeping, making deposits, and problem solving with customer service issues.
--	Hired and trained new employees on their duties.
--	Weekly and monthly inventory of items in the stock and upkeep of ordering high selling items
+**Assistant Manager and Visual Merchandiser** &nbsp;&nbsp; _Cornerstone Apparel_ </br>
+Camarillo, CA &nbsp;&nbsp; _January 2010 - April 2017_ </br>
+-	Maximizing sales, marketing, and profit to achieve growth. </br>
+-	Assembled promotional displays and tailored marketing displays to best suit the stores need. </br>
+-	Experience bookkeeping, making deposits, and problem solving with customer service issues. </br>
+-	Hired and trained new employees on their duties. </br>
+-	Weekly and monthly inventory of items in the stock and upkeep of ordering high selling items </br>
