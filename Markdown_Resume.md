@@ -16,8 +16,7 @@ Github: [https://github.com/Jbarnett-1](https://github.com/Jbarnett-1/)</br>
 -	Use of Microsoft Office (Outlook, OneDrive, Word, PowerPoint, Excel)
 -	Strong problem-solving skills with solid computer science fundamentals including Data structures and algorithms.
 
-## Certifications, Languages, Technologies, Platforms:
--------------------------------------------------------------
+## Certifications, Languages, Technologies, Platforms
 -	Google IT Automation with Python Professional Certification _(August 2020)_
 - Intermediate in Python, HTML, CSS
 - Beginner in JavaScript, CSS, MATLAB
