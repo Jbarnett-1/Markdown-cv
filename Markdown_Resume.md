@@ -5,7 +5,10 @@ Linkedin: [www.linkedin.com/in/jerrikabarnett](www.linkedin.com/in/jerrikabarnet
 Github: [https://github.com/Jbarnett-1](https://github.com/Jbarnett-1/)</br>
 
 ## About
-<p>I have previous experience in the pharmaceutical and chemistry area but looking to join a creative software development and programming team. Through undergrad, I was required to use MATLAB to analyze and model chemical processes through equations I've learned. Over time, my interest grew and now I l troubleshoot, deploy, and debug Python scripts to make programs run smoothly. I'm currently expanding my expertise into websites with JavaScript and SQL and running containers on Kubernetes. </p>
+- Previous experience in pharmaceutical and chemistry but looking to join a creative software development and programming team. 
+- In undergrad, I was required to use MATLAB to analyze and model chemical processes through equations I've learned. 
+- My interest grew and now I enjoy troubleshooting, deploying, and debugging Python scripts to make my programs run smoothly. 
+- Currently, I'm expanding my expertise into building websites with JavaScript and SQL and running containers on Kubernetes.
 
 ## Skills
 -	Relationship building skills to work closely with a team
